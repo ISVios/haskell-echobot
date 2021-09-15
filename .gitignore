@@ -1,0 +1,14 @@
+# stack gen
+.stack-work/
+*~
+
+# vim ignore
+*.swp
+
+# vs ignore
+.vscode
+.history 
+
+# data ignore
+config.ini
+
